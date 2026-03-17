@@ -8,11 +8,11 @@
 
 ## 🌐 My Live Project
 
-### 🔥 EventConnect — Find Event Jobs & Hire Catering Workers
+### 🔥 GigMithra — Find Event Jobs & Hire Catering Workers
 
 A platform connecting catering services with temporary workers for weddings, parties and functions.
 
-👉 Live Website: https://events-connect-pro.vercel.app/
+👉 Live Website: https://gigmithra.vercel.app/
 
 **Features**
 
@@ -53,8 +53,8 @@ HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Git | GitHub | V
 ## 🔗 Connect With Me
 
 📧 [vivek.singaraddi.dev@gmail.com](mailto:vivek.singaraddi.dev@gmail.com)
-💼 LinkedIn: (add after you update profile)
-🌐 Portfolio: https://events-connect-pro.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/vivek-singaraddi/
+🌐 Portfolio: https://gigmithra.vercel.app/
 
 ---
 
